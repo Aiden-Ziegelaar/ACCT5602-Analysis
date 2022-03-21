@@ -28,8 +28,9 @@ increase in held inventories, likely incentivised by a historically high gold
 price. 
 
 Comparing these figures to the median data for companies in the same sector 
-(Materials and Mining) with similar total assets (same order of magnitude) we can 
-see that PRU more closely matches the wider market, as demonstrated in table X.
+(gold minging or diversified including gold) with similar total assets (same 
+order of magnitude) we can see that PRU more closely matches the wider market, 
+as demonstrated in table X.
 
 |Company   |Quick Ratio |Current Ratio|
 |----------|------------|-------------|
