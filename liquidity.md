@@ -20,7 +20,7 @@ RRL has seen significant decline in both its current ratio and quick ratio,
 indicating reduced ability to meet short term obligations. This is primarily 
 driven by increases in both accounts payable and short-term debt. The effects 
 of these two factors has been offset by significant increases in cash assets 
-(AUD 54m, 2019-2021) as well as strong growth in inventory (AUD 105m, 2019-2021.
+(AUD 54m, FY2019-2021) as well as strong growth in inventory (AUD 105m, FY2019-2021.
 PRU has maintained a fairly strong current ratio, however it has noted a decrease 
 from last year on its quick ratio. This change has been driven by a decrease cash
 and an increase in the value of held inventories. Both companies have seen a large 
@@ -33,9 +33,9 @@ see that PRU more closely matches the wider market, as demonstrated in table X.
 
 |Company   |Quick Ratio |Current Ratio|
 |----------|------------|-------------|
-|PRU       |1.80 (-0.13)|3.24 (+0.49) |
-|RRL       |1.44 (-0.49)|2.33 (-0.42) |
-|Market    |1.93        |2.75         |
+|PRU       |1.80 (+0.61)|3.24 (+1.61) |
+|RRL       |1.44 (+0.25)|2.33 (-0.7)  |
+|Market    |1.19        |1.63         |
 
 As such PRU is better positioned than RRL to meet its short term obligations 
 through higher measures of liquidity. However both companies are in a similar
